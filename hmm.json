@@ -1,98 +1,98 @@
 {
-  "dependencies": [
+"依赖项"：["dependencies": [
     {
-      "name": "lime",
-      "type": "git",
-      "dir": null,
-      "ref": "develop",
-      "url": "https://github.com/beihu235/lime"
+"名称"："lime"，"name"："石灰",
+"类型"："git"，"type"："少不更事"，
+"目录"：空，"目录“”：无效的,
+"参考"："开发"，"裁判"："开发",
+"URL"："https://github.com/beihu235/lime""URL"："https://github.com/beihu235/lime"
     },
     {
-      "name": "openfl",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/beihu235/openfl"
+"名称"："openfl"，"name"："openfl",
+"类型"："git"，"类型"："少不更事",
+"目录"：空，"目录“”：无效的,
+"参考"："main"，"ref"："主要"，
+"URL"："https://github.com/beihu235/openfl""url"："https://github.com/beihu235/openfl"
     },
     {
-      "name": "flixel",
-      "type": "git",
-      "dir": null,
-      "ref": "dev",
-      "url": "https://github.com/beihu235/flixel"
+"名称"："flixel"，"name"："flixel",
+"类型"："git"，"类型"："少不更事",
+"目录"：空，"目录“”：无效的,
+"参考"："dev"，"ref"："dev"，
+"URL"："https://github.com/beihu235/flixel""url"："https://github.com/beihu235/flixel"
     },
     {
-      "name": "flixel-addons",
-      "type": "haxelib",
-      "version": "3.2.2"
+"名称"："FLixel-addons"，"name"："FLixel-addons",
+“类型”：“Haxelib”，"类型": "Haxelib",
+"版本"：“3.2.2”“版本”："3.2.2"
     },
     {
-      "name": "flixel-ui",
-      "type": "git",
-      "dir": null,
-      "ref": "dev",
-      "url": "https://github.com/MaoPou/flixel-ui-beauty"
+"名称"："flixel-ui"，"name"："flixel-ui",
+"类型"："git"，"类型"："少不更事",
+"目录"：空，"目录“”：无效的,
+"参考"："dev"，"ref"："dev"，
+"URL"："https://github.com/MaoPou/flixel-ui-beauty""url"："https://github.com/MaoPou/flixel-ui-beauty"
     },
     {
       "name": "flixel-tools",
-      "type": "haxelib",
-      "version": "1.5.1"
+      "类型": "Haxelib",
+      "版本": "1.5.1"
     },
     {
-      "name": "hxcpp",
-      "type": "git",
-      "dir": null,
-      "ref": "master",
-      "url": "https://github.com/beihu235/hxcpp"
+      "名称": "hxcpp",
+      "类型": "少不更事",
+      "目录": 无效的,
+      "参考": "master",
+      "URL": "https://github.com/beihu235/hxcpp"
     },
     {
-      "name": "hxvlc",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/beihu235/hxvlc-1.8.1"
+      "名称": "hxvlc",
+      "type": "少不更事",
+      "目录": 无效的,
+      "参考": "主要",
+      "URL": "https://github.com/beihu235/hxvlc-1.8.1"
     },
     {
-      "name": "hscript-iris-improved",
-      "type": "git",
-      "dir": null,
-      "ref": "master",
-      "url": "https://github.com/NovaFlare-Engine-Concentration/hscript-iris-improved"
+      "名称": "hscript-iris-provested",
+      "type": "少不更事",
+      "目录": 无效的,
+      "参考": "主",
+      "URL": "https://github.com/NovaFlare-Engine-Concentration/hscript-iris-improved"
     },
     {
-      "name": "flxsoundfilters",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/beihu235/FlxSoundFilters"
+      "名称": "flxsoundfilters",
+      "type": "少不更事",
+      "目录": 无效的,
+      "参考": "主要",
+      "URL": "https://github.com/beihu235/FlxSoundFilters"
     },
     {
       "name": "hxcpp-debug-server",
-      "type": "haxelib",
-      "version": null
+      "type": "Haxelib",
+      "版本": 无效的
     },
     {
-      "name": "tjson",
-      "type": "haxelib",
-      "version": null
+      "name": "TJSON",
+      "type": "Haxelib",
+      "版本": null
     },
     {
       "name": "hxdiscord_rpc",
-      "type": "haxelib",
-      "version": null
+      "type": "Haxelib",
+      "版本": null
     },
     {
-      "name": "linc_luajit",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
+      "name": "linc_LuaJIT",
+      "type": "少不更事",
+      "目录": null,
+      "参考": "主要",
       "url": "https://github.com/beihu235/linc_luajit-rewriten"
     },
     {
       "name": "flxanimate",
       "type": "git",
       "dir": null,
-      "ref": "master",
+      "ref": "主",
       "url": "https://github.com/beihu235/flxanimate"
     },
     {
@@ -100,7 +100,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/beihu235/extension-androidtools"
+      "url": "https://github.com/MAJigsaw77/extension-androidtools"
     },
     {
       "name": "funkin.vis",
